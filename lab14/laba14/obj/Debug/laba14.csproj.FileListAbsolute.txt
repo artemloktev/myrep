@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\laba14.exe.config
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\laba14.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\laba14.pdb
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.Form1.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.Form2.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.Properties.Resources.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.pdb
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\bin\Debug\laba14.exe.config
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\bin\Debug\laba14.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\bin\Debug\laba14.pdb
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.Form1.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.Form2.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.Properties.Resources.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\laba14\obj\Debug\laba14.pdb
+C:\Artem\Documents\gitrep\14 лаба\laba14\bin\Debug\laba14.exe.config
+C:\Artem\Documents\gitrep\14 лаба\laba14\bin\Debug\laba14.exe
+C:\Artem\Documents\gitrep\14 лаба\laba14\bin\Debug\laba14.pdb
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.csprojAssemblyReference.cache
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.Form1.resources
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.Form2.resources
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.Properties.Resources.resources
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.csproj.GenerateResource.cache
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.exe
+C:\Artem\Documents\gitrep\14 лаба\laba14\obj\Debug\laba14.pdb

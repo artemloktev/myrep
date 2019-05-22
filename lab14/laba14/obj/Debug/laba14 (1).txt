@@ -1,0 +1,53 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\bds601\Desktop\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Кирилл\Desktop\Научка Серега\пис\Былков\Лаба 14\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Кирилл\Desktop\Научка Серега\пис\лабы\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.Form1.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\laba14.Form2.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\User\Desktop\Vyatkin14baza\Vyatkin14baza\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
